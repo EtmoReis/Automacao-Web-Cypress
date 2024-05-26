@@ -10,19 +10,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Fazer checkout do repositório
         uses: actions/checkout@v2
 
-      - name: Setup Node.js
+      - name: Configurar Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 14
 
-      - name: Install Dependencies
+      - name: Instalar dependências
         run: npm install
 
-      - name: Install Cypress
+      - name: Instalar Cypress
         run: npm install cypress --save-dev
 
-      - name: Run Cypress Tests
-        run : npm run cypres:run
+      - name: Executar testes do Cypress
+        run: npm run cypress:run
+
