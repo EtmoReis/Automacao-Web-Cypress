@@ -73,5 +73,28 @@ Pronto agora é só criar seus cenários de testes e aproveitar o melhor da ferr
 Obrigado por consumirem nossos conteúdos.
 
 Qa.Coders Academy Formando Profissionais de Qualidade.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+    <h1>Squad Chips</h1>
+    <table>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/EtmoReis">
+                    <img loading="lazy" src="https://github.com/EtmoReis.png" width="90"><br/>
+                    <sub>EtmoReis</sub>
+                </a><br/>
+                <a href="https://www.linkedin.com/in/etmo-reis-bb46bb26a/">
+                    <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Logo do LinkedIn" width="30">
+                </a>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
 
-##Etmo Reis 
