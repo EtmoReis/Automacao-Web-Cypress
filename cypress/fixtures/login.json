@@ -1,0 +1,10 @@
+{
+
+    "input_email":"#email",
+    "input_password":"#password",
+    "btn_Login":"#login",
+    "msg_alert":"[class='MuiAlert-message css-1xsto0d']"
+
+
+    
+}
